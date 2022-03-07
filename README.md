@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## 👋 &nbsp;Hey There! It's Sid here.
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I'm a IT & Non IT Hr in Bangalore, India. Where i provide 100% free placement Service.\
@@ -23,11 +24,11 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/sidhoo"><img src="https://img.shields.io/badge/LinkedIn-Sidhoo-blue"/></a>&nbsp;
 <a href="mailto:Sidhooman@gmail.com"><img src="https://img.shields.io/badge/Gmail-Sidhooman@gmail.com-red"/></a>&nbsp;
-<a href="https://twitter.com/Sid_hoo"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-Sid_hoo-blue"/></a>
+<a href="https://twitter.com/Sid_hoo"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-@Sid_hoo-blue"/></a>
 <a href="https://instagram.com/Sid_hoo"><img src="https://img.shields.io/badge/-@Sid_hoo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/sidhooman"><img src="https://img.shields.io/badge/-@Sidhooman-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
   
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="Right"/>
   
   ### 🛠 &nbsp;Tech Stack
   
