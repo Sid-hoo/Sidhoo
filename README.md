@@ -11,14 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 &nbsp;Hey there! It's Sid here.
+## 👋 &nbsp;Hey There! It's Sid here.
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I'm a IT & Non IT Hr in Bangalore, India. Where i provide 100% free placement Service.\
 🎓 &nbsp;I have completed my Bachelor in 2019.\
 🌱 &nbsp;I believe in learning and growing my skillset's also parallely polishing my existing skills, like Powerbi, Web developing, Lead Generation, Sourcring, recruiting, SEO, SEA, SEM,.\
 ✍️ &nbsp;Spend free time by seaching for something useful over the internet which compliments my existing skillsets and knowledge.\
-✉️ &nbsp;You can shoot me an email at Sidhooman@gmail.com . I'll try to respond as soon as I can.\
-📄 &nbsp;Please Do visit to have a look at the active requirement [Linkedin](https://www.linkedin.com/in/sidhoo/) for more details about me. I'm open to feedback and suggestions.
 
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -28,4 +26,8 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/Sid_hoo"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-Sid_hoo-blue"/></a>
 <a href="https://instagram.com/Sid_hoo"><img src="https://img.shields.io/badge/-@Sid_hoo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/sidhooman"><img src="https://img.shields.io/badge/-@Sidhooman-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
+  
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+  
+  ### 🛠 &nbsp;Tech Stack
+  
